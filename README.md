@@ -1,5 +1,5 @@
 # Rough Communicator
-This just sends file. No file confict management
+This just sends file. No file confict management. Full Oolaththaram🤣🤣🤣
 
 # Steps to run
 1. Clone the repository
