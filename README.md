@@ -16,7 +16,7 @@ This just sends file. No file confict management
    ``` 
 5. To run the client
    ```bash
-   make client <ip-address> <filepath-where-client-stores-files>
+   make client <ip-address> <port> <filepath-where-client-stores-files>
    ```
 6. To clean
    ```bash
